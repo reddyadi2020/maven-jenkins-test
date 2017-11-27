@@ -116,7 +116,7 @@
           </goals>
           <configuration>
             <muleApiUrl>http://localhost:8585/mmc/api/repository</muleApiUrl>
-            <name>${artifactId}</name>
+            <name>maven-jenkins-test</name>
             <username>admin</username>
             <password>admin</password>
             <appDirectory>${project.basedir}/src/main/app</appDirectory>
