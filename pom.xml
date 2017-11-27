@@ -120,7 +120,7 @@
             <username>admin</username>
             <password>admin</password>
             <appDirectory>${project.basedir}/src/main/app</appDirectory>
-            <finalName>${artifactId}-${version}</finalName>
+            <finalName>maven-jenkins-test-1.0.0-SNAPSHOT</finalName>
             <version>${version}</version>
             <serverGroup>Development</serverGroup>
           </configuration>
