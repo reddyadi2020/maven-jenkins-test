@@ -115,7 +115,7 @@
             <goal>deploy</goal>
           </goals>
           <configuration>
-            <muleApiUrl>http://localhost:8585/mmc/api/repository</muleApiUrl>
+            <muleApiUrl>http://localhost:8585/mmc/api</muleApiUrl>
             <name>maven-jenkins-test</name>
             <username>admin</username>
             <password>admin</password>
